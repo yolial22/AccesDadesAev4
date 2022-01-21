@@ -1,0 +1,4 @@
+Comentari: "Açi ficare les variables que utilitzare per a la base de dades,
+despres les variables i la funcio, per a que la conexio amb la base de dades, no tinga errors
+i per ultim fare un insert, per a introduir les dades que pose en el html de la activitat evaluable,
+en la base de dades i una funcio, per a que eixe insert, mel mostre com a que se ha fet correctament.

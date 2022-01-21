@@ -1,0 +1,6 @@
+Comentari: "Açi utilitzare dos funcions, una per a obtindre les dades del json de la api rest publica
+i l'altra per a guardar eixes dades de la api rest publica
+i per ultim en la meu localhost del html de la activitat evaluable,
+lo que fare sera, que a traves de un id, mostrare tots els camps que jo vuic visualitzar,
+gracias al boto de buscar personatge i l'altre boto enviar formulari,
+lo que fara sera enviar eixes dades a la base de dades."
